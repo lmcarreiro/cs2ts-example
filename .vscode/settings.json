@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+      "Dockerfile*": "dockerfile"
+  },
+  "files.exclude": {
+      "**/.git": true,
+      "**/.vs": true,
+      "**/bin": true,
+      "**/obj": true
+  },
+  "search.exclude": {
+      "**/node_modules": true
+  }
+}
